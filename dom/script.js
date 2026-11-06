@@ -92,4 +92,4 @@ function removerUltimo() {
 }
 
 document.getElementById("btn-add").addEventListener("click", adicionarItem);
-document.getElementById("btn-remover").addEventListener("click", removerUltimo  );
+document.getElementById("btn-remover").addEventListener("click", removerUltimo);
